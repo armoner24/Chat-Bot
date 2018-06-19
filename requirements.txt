@@ -1,0 +1,2 @@
+python
+python libraries- chatterbot, datetime, google, sys, os, random, math, operator, time
